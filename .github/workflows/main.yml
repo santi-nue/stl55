@@ -20,5 +20,5 @@ jobs:
        
     - name: build
       run: |
-            cd /home/runner/work/stl55/vrs/main
+            cd D:/a/stl55/stl55/main/VirtualRadar
             dotnet build  
